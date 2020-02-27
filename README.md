@@ -1,1 +1,1 @@
-# web1/index/html
+# web1/index.html
